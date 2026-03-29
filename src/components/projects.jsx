@@ -126,7 +126,7 @@ A whimsical render of a hot air balloon hovering over dense, mountainous forests
           
           <div className="w-full sm:w-[280px] md:w-[300px] rounded-xl border border-white/30  backdrop-blur-sm p-4 shadow-[0_8px_30px_rgb(0,0,0,0.12)] transition-all duration-300 hover:scale-105 hover:-translate-y-1">
             <img
-              src="/proj/pr2.png"
+              src="https://raw.githubusercontent.com/animationandgamedesignclub/IMAGE/main/shrine_full.png"
               alt="Project2"
               loading="lazy"
               className="h-40 w-full rounded-lg object-cover"
@@ -146,7 +146,7 @@ A whimsical render of a hot air balloon hovering over dense, mountainous forests
 
           <div className="w-full sm:w-[280px] md:w-[300px] rounded-xl border border-white/30 backdrop-blur-sm p-4 shadow-[0_8px_30px_rgb(0,0,0,0.12)] transition-all duration-300 hover:scale-105 hover:-translate-y-1">
             <img
-              src="/proj/pr5.png"
+              src="https://raw.githubusercontent.com/animationandgamedesignclub/IMAGE/main/redbull.png"
               alt="project"
               loading="lazy"
               className="h-40 w-full rounded-lg object-cover"
@@ -163,7 +163,7 @@ A whimsical render of a hot air balloon hovering over dense, mountainous forests
 
           <div className="w-full sm:w-[280px] md:w-[300px] rounded-xl border border-white/30 backdrop-blur-sm p-4 shadow-[0_8px_30px_rgb(0,0,0,0.12)] transition-all duration-300 hover:scale-105 hover:-translate-y-1">
             <img
-              src="/proj/pr4.png"
+              src="https://raw.githubusercontent.com/animationandgamedesignclub/IMAGE/main/HKS_Plane.png"
               alt="project"
               loading="lazy"
               className="h-40 w-full rounded-lg object-cover"
@@ -179,7 +179,7 @@ A whimsical render of a hot air balloon hovering over dense, mountainous forests
 
           <div className="w-full sm:w-[280px] md:w-[300px] rounded-xl border border-white/30 backdrop-blur-sm p-4 shadow-[0_8px_30px_rgb(0,0,0,0.12)] transition-all duration-300 hover:scale-105 hover:-translate-y-1">
             <img
-              src="/proj/pr6.png"
+              src="https://raw.githubusercontent.com/animationandgamedesignclub/IMAGE/main/render2.png"
               alt="project"
               loading="lazy"
               className="h-40 w-full rounded-lg object-cover"
